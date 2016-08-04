@@ -1,0 +1,32 @@
+_repo: Tales_5139
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wiskott, Dawid
+    gutenberg_agent_id: '1712'
+    url: http://www.gutenberg.org/2009/agents/1712
+creator:
+  author:
+    agent_name: Ewald, Carl
+    alias: Ewald, Karl
+    birthdate: 1856
+    deathdate: 1908
+    gutenberg_agent_id: '1711'
+    url: http://www.gutenberg.org/2009/agents/1711
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Ewald
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5139'
+language: he
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish fiction -- Translations into Hebrew'
+- GITenberg
+title: Tales
+url: http://www.gutenberg.org/ebooks/5139
