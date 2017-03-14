@@ -1,10 +1,13 @@
 _repo: Tales_5139
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wiskott, Dawid
     gutenberg_agent_id: '1712'
     url: http://www.gutenberg.org/2009/agents/1712
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ewald, Carl
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1711
     wikipedia: http://en.wikipedia.org/wiki/Carl_Ewald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5139#Tales
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
